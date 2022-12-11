@@ -1,0 +1,2115 @@
+{
+    "$schema": "schema.json",
+    "feed_info": {
+        "name": "Taylor Swift Lyrics",
+        "description": "Quotes from Taylor Swift songs through all the eras",
+        "id": "13w-tslyrics"
+    },
+    "quotes": [
+        {
+            "body": "I don't know what I want, so don't ask me\n'Cause I'm still trying to figure it out",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "A Place In This World"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "When you think Tim McGraw, I hope you think of me",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "Tim McGraw"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "So watch me strike a match on all my wasted time",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "Picture to Burn"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "I'll be strong, I'll be wrong, oh but life goes on...",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "A Place In This World"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "And when you take, you take the very best of me",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "Cold As You"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "But no one notices until it's too late to do anything",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "The Outside"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "Our song is the slamming screen door, sneakin' out late, tapping on your window",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "Our Song"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "And I don't know why, but with you I'd dance in a storm in my best dress, fearless",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Fearless"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "But in your life, you'll do things greater than dating the boy on the football team... But I didn't know it at fifteen",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Fifteen"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "I've found time can heal most anything and you just might find who you're supposed to be",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Fifteen"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "Romeo, save me. They're trying to tell me how to feel. This love is difficult but it's real",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Love Story"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "Why are people always leaving? I think you and I should stay the same",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Hey Stephen"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "My mistake, I didn't know to be in love you had to fight to have the upper hand",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "White Horse"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "This is a big world, that was a small town there in my rear view mirror disappearing now",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "White Horse"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "You've got a smile that could light up this whole town",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "You Belong With Me"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "And we know it's never simple, never easy. Never a clean break, no one here to save me",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Breathe"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "You took a swing, I took it hard. And down here from the ground I see who you are",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Tell Me Why"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "All this time I was wasting, hoping you would come around... I've been giving out chances every time and all you do is let me down",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "You're Not Sorry"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "And then you feel so low you can't feel nothing at all",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Forever and Always"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "It rains when you're here and it rains when you're gone",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Forever and Always"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "These walls that they put up to hold us back will fall down...",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Change"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "My mind forgets to remind me you're a bad idea",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Sparks Fly"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "It turns out freedom ain't nothing but missing you",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Back to December"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "She floats down the aisle like a pageant queen, but I know you wish it was me... don't you?",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Speak Now"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "I lived in your chess game, but you changed the rules every day",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Dear John"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "I'm shining like fireworks over your sad, empty town",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Dear John"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "Someday I'll be living in a big, old city and all you're ever gonna be is mean",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Mean"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "I'd tell you I miss you, but I don't know how, I've never heard silence quite this loud",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "The Story of Us"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "This is looking like a contest of who can act like they care less. But I liked it better when you were on my side",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "The Story of Us"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "And don't lose the way that you dance around in your pj's getting ready for school",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Never Grow Up"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "This night is sparkling, don't you let it go.  I'm wonderstruck, blushing all the way home",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Enchanted"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "2AM, who do you love?",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Enchanted"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "Your string of lights is still bright to me... Who you are is not where you've been",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Innocent"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "Today is never too late to be brand new",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Innocent"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "You and I walk a fragile line; I have known it all this time. But I never thought I'd live to see it break",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Haunted"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "I don't know how to be something you miss",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Last Kiss"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "Bring on all the pretenders. One day, we will be remembered",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Long Live"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "So don't you worry your pretty, little mind, people throw rocks at things that shine",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Ours"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "We are alone with our changing minds. We fall in love 'til it hurts or bleeds or fades in time",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "State of Grace"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "Love is a ruthless game unless you play it good and right",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "State of Grace"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "He's long gone when he's next to me and I realize the blame is on me",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "I Knew You Were Trouble"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "No apologies. He'll never see you cry. Pretends he doesn't know that he's the reason why",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "I Knew You Were Trouble"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "The saddest fear comes creeping in - that you never loved me or her, or anyone, or anything...",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "I Knew You Were Trouble"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "That magic's not here no more, and I might be OK, but I'm not fine at all",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "All Too Well"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "And your mother's telling stories about you on a tee ball team. You taught me 'bout your past, thinking your future was me",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "All Too Well"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "I forget about you long enough to forget why I needed to...",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "All Too Well"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "Maybe we got lost in translation, maybe I asked for too much. But maybe this thing was a masterpiece 'til you tore it all up. Running scared, I was there, I remember it all too well",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "All Too Well"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "You call me up again just to break me like a promise, so casually cruel in the name of being honest",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "All Too Well"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "Time won't fly, it's like I'm paralyzed by it. I'd like to be my old self again, but I'm still trying to find it",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "All Too Well"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "Cause there we are again, when I loved you so, back before you lost the one real thing you've ever known",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "All Too Well"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "Now you mail back my things and I walk home alone\nBut you keep my old scarf from that very first week, 'cause it reminds you of innocence and it smells like me",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "All Too Well"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "Stay, and I'll be loving you for quite some time\nNo one else is gonna love me when I get mad",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "Stay Stay Stay"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "We're happy, free, confused, and lonely at the same time. It's miserable and magical",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "22"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "I wish I could run to you. And I hope you know that every time I don't I almost do",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "I Almost Do"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "You wear your best apology, but I was there to watch you leave",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "The Last Time"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "But sometimes I wonder how you think about it now",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "Holy Ground"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "But I don't wanna dance if I'm not dancing with you",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "Holy Ground"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "Words, how little they mean when you're a little too late",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "Sad Beautiful Tragic"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "And they tell you that you're lucky, but you're so confused, 'cause you don't feel pretty, you just feel used",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "The Lucky One"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "I've been spending the last eight months thinking all love ever does is break and burn and end...",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "Begin Again"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "And what do you do when the one who means the most to you is the one who didn't show?",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "The Moment I Knew"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "Your close friends always seem to know\nWhen there's something really wrong",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "The Moment I Knew"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "You called me later\nAnd said, \"I'm sorry I didn't make it\"\nAnd I said, \"I'm sorry, too\"",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "The Moment I Knew"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "Loving him is like driving a new Maserati down a dead-end street\nFaster than the wind, passionate as sin, ending so suddenly",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "Red"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "The lights are so bright, but they never blind me",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Welcome to New York"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Love's a game, wanna play?",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Blank Space"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "So it's gonna be forever or it's gonna go down in flames",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Blank Space"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "But you'll come back each time you leave 'cause darling, I'm a nightmare dressed like a daydream",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Blank Space"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "When we go crashing down, we come back every time 'cause we never go out of style",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Style"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "I got that red lip, classic thing that you like",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Style"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "The rest of the world was black and white, but we were in screaming color",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Out of the Woods"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "The more I think about it now, the less I know, all I know is that you drove us off the road",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "All You Had To Do Was Stay"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "People like you always want back the love they pushed aside, but people like me are gone forever when you say goodbye",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "All You Had To Do Was Stay"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Why'd you have to go and lock me out when I let you in?",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "All You Had To Do Was Stay"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "While you've been getting down and out about the liars and the dirty, dirty cheats of the world... You could've been getting down to this sick beat",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Shake It Off"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "We're a crooked love in a straight line down",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "I Wish You Would"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "And I wish you knew that I miss you too much to be mad anymore",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "I Wish You Would"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "You give me everything and nothing",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "I Wish You Would"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Makes you wanna run and hide, but it made us turn right back around",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "I Wish You Would"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Band-aids don't fix bullet holes. You say sorry just for show",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Bad Blood"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Someday when you leave me, I bet these memories follow you around",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Wildest Dreams"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "When you're young, you just run, but you come back to what you need",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "This Love"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "This love left a permanent mark",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "This Love"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Your kiss, my cheek\nI watch you leave\nYour smile, my ghost\nI fall to my knees",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "This Love"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "It was months and months of back and forth, you're still all over me like a wine-stained dress I can't wear anymore",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Clean"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "When I was drowning that's when I could finally breathe",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Clean"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Just because you're clean, don't mean you don't miss it",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Clean"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Didn't it all seem new and exciting? ...It's all fun and games 'til somebody loses their mind",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Wonderland"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "You search the world for something else to make you feel like what we had. And in the end in wonderland, we both went mad",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Wonderland"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Heartbreak is the national anthem, we sing it proudly",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "New Romantics"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "They'll take their shots, but we are bulletproof",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "I Know Places"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "So I punched a hole in the roof\nLet the flood carry away all my pictures of you",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Clean"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "When all you wanted\nWas to be wanted\nWish you could go back\nAnd tell yourself what you know now",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Fifteen"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "32 and still growing up now\nWho you are is not what you did\nYou're still an innocent",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Innocent"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "We play dumb\nBut we know exactly what we're doing",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "New Romantics"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Please don't ever become a stranger whose laugh I could recognize anywhere",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "New Year's Day"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Can we always be this close forever and ever?",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Lover"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I'm only seventeen\nI don't know anything but I know I miss you",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Betty"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "I was walking home on broken cobblestones just thinking of you, when she pulled up like a figment of my worst intentions",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Betty"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "You play stupid games, you win stupid prizes",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Miss Americana and The Heartbreak Prince"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I had a marvelous time ruining everything",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "The Last Great American Dynasty"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "Untouchable, burning brighter than the sun\nAnd when you're close I feel like coming undone",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Untouchable"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "Barefoot in the kitchen\nSacred new beginnings\nThat became my religion, listen",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Cornelia Street"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I could build a castle out of all the bricks they threw at me",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "New Romantics"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "Cold was the steel of my axe to grind for the boys who broke my heart\nNow I send their babies presents",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Invisible String"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "He says he's so in love\nHe's finally got it right\nI wonder if he knows he's all I think about at night",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "Teardrops On My Guitar"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "Back when you fit in my poems like a perfect rhyme",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "Holy Ground"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "I once believed love would be burning red\nBut it's golden",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Daylight"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I think I've seen this film before\nAnd I didn't like the ending\nYou're not my homeland anymore\nSo what am I defending now?",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Exile"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "He said the way my blue eyes shined\nPut those Georgia stars to shame that night\nI said, 'That's a lie'",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "Tim McGraw"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "The monsters turned out to be just trees\nWhen the sun came up you were looking at me",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Out of the Woods"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "The night you danced like you knew our lives would never be the same\nYou held your head like a hero\nOn a history book page\nIt was the end of a decade\nBut the start of an age",
+            "attributions": [
+                "Taylor Swift",
+                "Speak Now",
+                "Long Live"
+            ],
+            "group_id": "Speak Now"
+        },
+        {
+            "body": "I can't decide if it's a choice: Getting swept away",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "Treacherous"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "They told me all of my cages were mental\nSo I got wasted like all my potential",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "This Is Me Trying"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "But she wears short skirts\nI wear T-shirts\nShe's cheer captain\nAnd I'm on the bleachers",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "You Belong With Me"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "I don't like that falling feels like flying till the bone crush",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Gold Rush"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "I'm doing good, I'm on some new shit\nBeen saying \"yes\" instead of \"no\"\nI thought I saw you at the bus stop, I didn't though",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "The 1"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "I guess you never know, never know\nAnd if you wanted me, you really should've showed",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "The 1"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "I persist and resist the temptation to ask you\nIf one thing had been different\nWould everything be different today?",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "The 1"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "When you are young they assume you know nothing",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Cardigan"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "You drew stars around my scars\nBut now I'm bleedin'",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Cardigan"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "I knew you'd miss me once the thrill expired\nAnd you'd be standin' in my front porch light\nAnd I knew you'd come back to me",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Cardigan"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "You wear the same jewels that I gave you, as you bury me",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "My Tears Ricochet"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "We gather stones, never knowing what they'll mean\nSome to throw, some to make a diamond ring",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "My Tears Ricochet"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "You know I didn't want to have to haunt you\nBut what a ghostly scene",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "My Tears Ricochet"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "Do you remember when I pulled up and said 'get in the car'\nAnd then cancelled my plans just in case you called",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "August"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "To live for the hope of it all\nCancel plans just in case you'd call\nAnd say, \"Meet me behind the mall\"",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "August"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "Bold was the waitress on our three-year trip\nGetting lunch down by the Lakes\nShe said I looked like an American singer",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Invisible String"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "Time, mystical time\nCutting me open, then healing me fine\nWere there clues I didn't see?",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Invisible String"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "One single thread of gold tied me to you",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Invisible String"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "I know where it all where wrong, your favorite song was playing from the far side of the gym\nI was nowhere to be found I hate the crowds\nPlus I saw you dance with him",
+            "attributions": [
+                "Taylor Swift",
+                "folklore",
+                "Betty"
+            ],
+            "group_id": "folklore"
+        },
+        {
+            "body": "Knew I was a robber first time that he saw me\nStealing hearts and running off and never sayin' sorry",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "...Ready For It?"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "I swear I don't love the drama, it loves me",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "End Game"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "I bury hatchets, but I keep maps of where I put 'em",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "End Game"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Love made me crazy, if it doesn't, you ain't doin' it right",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Don't Blame Me"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "My name is whatever you decide\nAnd I'm just gonna call you mine",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Don't Blame Me"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Handsome, you're a mansion with a view",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Delicate"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Sometimes I wonder when you sleep\nAre you ever dreaming of me?",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Delicate"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "The world goes on another day, another drama\nBut not for me, all I think about is karma",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Look What You Made Me Do"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "I've got a list of names and yours is in red, underlined\nI check it once, then I check it twice",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Look What You Made Me Do"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "You asked me for a place to sleep, locked me out and threw a feast",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Look What You Made Me Do"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "You know I'm not a bad girl, but I\nDo bad things with you",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "So It Goes..."
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "You did a number on me but, honestly, baby, who's counting?",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "So It Goes..."
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Ocean blue eyes looking in mine\nI feel like I might sink and drown and die",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Gorgeous"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "You make me so happy it turns back to sad\nThere's nothing I hate more than what I can't have\nAnd you are so gorgeous it makes me so mad",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Gorgeous"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "We were jet-set, Bonnie and Clyde\nUntil I switched to the other side\nIt's no surprise I turned you in\n'Cause us traitors never win",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Getaway Car"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "We met a few weeks ago\nNow you try on callin' me \"Baby\" like tryin' on clothes",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "King of My Heart"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Your love is a secret I'm hoping, dreaming, dying to keep",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "King of My Heart"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Is this the end of all the endings?\nMy broken bones are mending",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "King of My Heart"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "I loved you in spite of deep fears that the world would divide us",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Dancing With Our Hands Tied"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Say that we got it\nI'm a mess, but I'm the mess that you wanted",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Dancing With Our Hands Tied"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "But you stabbed me in the back while shaking my hand\nAnd therein lies the issue\nFriends don't try to trick you\nGet you on the phone and mind-twist you\nSo I took an axe to a mended fence",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "This Is Why We Can't Have Nice Things"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "I brought a knife to a gunfight",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Call It What You Want"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "He built a fire just to keep me warm",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Call It What You Want"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "I want to wear his initial on a chain round my neck, not because he owns me, but cause he really knows me, which is more than they can say",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Call It What You Want"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Holding my breath, slowly, I said \"You don't need to save me, but would you run away with me?\"",
+            "attributions": [
+                "Taylor Swift",
+                "reputation",
+                "Call It What You Want"
+            ],
+            "group_id": "reputation"
+        },
+        {
+            "body": "Would've been right there, front row even if nobody came to your show",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "I Forgot That You Existed"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I'm always waiting for you to be waiting below",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Cruel Summer"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "Devils roll the dice, angels roll their eyes\nWhat doesn't kill me makes me want you more",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Cruel Summer"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I don't wanna keep secrets just to keep you",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Cruel Summer"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I'm drunk in the back of the car\nAnd I cried like a baby coming home from the bar\nSaid, \"I'm fine,\" but it wasn't true",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Cruel Summer"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "For whatever it's worth, I love you, ain't that the worst thing you ever heard?",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Cruel Summer"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I've got a hundred thrown-out speeches I almost said to you",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "The Archer"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I am an architect, I'm drawing up the plans",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "I Think He Knows"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I'll never let you go 'cause I know this is a fight that someday we're gonna win",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Miss Americana and The Heartbreak Prince"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I'm with you even if it makes me blue",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Paper Rings"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "Without all the exes, fights, and flaws, we wouldn't be standing here so tall",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Paper Rings"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "We were a fresh page on the desk, filling in the blanks as we go",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Cornelia Street"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "We were in the backseat drunk on something stronger than the drinks in the bar",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Cornelia Street"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "If the story is over, why am I still writing pages?",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Death By A Thousand Cuts"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I ask the traffic lights if it will be alright, they say I don't know",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Death By A Thousand Cuts"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "They say home is where the heart is, but that's not where mine lives",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "London Boy"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I pinned your hands behind your back\nThought I had reason to attack, but no",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Afterglow"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "Fighting with a true love is boxing with no gloves\nChemistry 'til it blows up, 'til there's no us",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Afterglow"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "And I can't talk to you when you're like this, staring out the window like I'm not your favorite town",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "False God"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "They say the road gets hard and you get lost",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "False God"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "Remember how I said I'd die for you?",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "False God"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I come back stronger than a '90s trend",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Willow"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "Wait for the signal, and I'll meet you after dark\nShow me the places where the others gave you scars",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Willow"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "Bustling crowds or silent sleepers\nYou're not sure which is worse",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Champagne Problems"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "You told your family for a reason\nYou couldn't keep it in\nYour sister splashed out on the bottle",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Champagne Problems"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "\"This dorm was once a madhouse\" I made a joke, \"Well, it's made for me\"",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Champagne Problems"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "One for the money, two for the show\nI never was ready so I watch you go",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Champagne Problems"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "Sometimes you just don't know the answer 'til someone's on their knees and asks you",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Champagne Problems"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "And then it fades into the gray of my day-old tea 'Cause it could never be",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Gold Rush"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "I can't dare to dream about you anymore",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Gold Rush"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "My mind turns your life into folklore\nI can't dare to dream about you anymore",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Gold Rush"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "I parked my car right between the Methodist and the school that used to be ours",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "'Tis The Damn Season"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "I'll go back to L.A. and the so-called friends who'll write books about me if I ever make it and wonder about the only soul who can tell which smiles I'm fakin'",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "'Tis The Damn Season"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "What would you do if I break free and leave us in ruins, took this dagger in me and removed it, gain the weight of you then lose it?",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Tolerate It"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "I made you my temple, my mural, my sky. Now I'm begging for footnotes in the story of your life\nDrawing hearts in the byline always taking up too much space or time",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Tolerate It"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "Your nemesis will defeat themselves before you get the chance to swing",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Long Story Short"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "My waves meet your shore ever and evermore",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Long Story Short"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "I replay my footsteps on each stepping stone, trying to find the one where I went wrong",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "evermore"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "So yeah, it's a fire, it's a goddamn blaze in the dark and you've started it\nSo yeah, it's a war, it's the goddamn fight of my life and you started it",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Ivy"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "Did you ever hear about the girl who got frozen?\nTime went on for everybody else, she won't know it\nShe's still twenty-three inside her fantasy",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Right Where You Left Me"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "Breaking down and coming undone\nIt's a rollercoaster kind of rush",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "The Way I Loved You"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "He can't see the smile I'm faking and my heart's not breaking 'cause I'm not feeling anything at all",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "The Way I Loved You"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "Well, I like the way your hair falls in your face\nYou got the keys to me\nI love each freckle on your face",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "Jump Then Fall"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "With your face and the beautiful eyes\nAnd the conversation with the little white lies\nAnd the faded picture of a beautiful night",
+            "attributions": [
+                "Taylor Swift",
+                "Fearless (Taylor's Version)",
+                "The Other Side of the Door"
+            ],
+            "group_id": "Fearless"
+        },
+        {
+            "body": "Never be so kind\nYou forget to be clever\nNever be so clever\nYou forget to be kind",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "Marjorie"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "Sometimes I feel like everybody is a sexy baby\nAnd I'm the monster on the hill",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Anti-Hero"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "It's me, hi, I'm the problem, it's me",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Anti-Hero"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "Did you hear my covert narcissism I disguise as altruism\nLike some kind of congressman?",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Anti-Hero"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "Life is emotionally abusive, and time can't stop me quite like you did",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Snow on the Beach"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "I didn't choose this town, I dream of getting out, there's just one who could make me stay",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Snow on the Beach"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "From sprinkler splashes to fireplace ashes\nI gave my blood, sweat, and tears for this\nI hosted parties and starved my body\nLike I'd be saved by a perfect kiss",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "You're On Your Own, Kid"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "Cause there were pages turned with the bridges burned, everything you lose is a step you take",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "You're On Your Own, Kid"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "He wanted it comfortable, I wanted that pain\nHe wanted a bride, I was making my own name",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Midnight Rain"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "Can I ask you a question...?",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Question...?"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "They say looks can kill and I might try",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Vigilante Shit"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "I don't start shit, but I can tell you how it ends",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Vigilante Shit"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "The lady simply had enough",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Vigilante Shit"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "Baby love, I think I've been a little too kind, didn't notice you walkin' all over my peace of mind",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Bejewled"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "Karma's a relaxing thought, aren't you envious that for you it's not?",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Karma"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "Once upon a time, the planets and the fates and all the stars aligned\nYou and I ended up in the same room at the same time",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Mastermind"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "I'm so in love that I might stop breathing",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Paris"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "And I'm not even sorry, nights are so starry, blood moonlit",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Glitch"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "Living for the thrill of hitting you where it hurts, give me back my girlhood, it was mine first",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Would've, Could've, Should've"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "How's your heart after breakin' mine?",
+            "attributions": [
+                "Taylor Swift",
+                "Red (Taylor's Version)",
+                "Mr. Perfectly Fine"
+            ],
+            "group_id": "Red"
+        },
+        {
+            "body": "I don't need your \"closure.\"",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "closure"
+            ],
+            "group_id": "evermore"
+        },
+        {
+            "body": "Who am I supposed to talk to? What am I supposed to do if there's no you?",
+            "attributions": [
+                "Taylor Swift",
+                "Lover",
+                "Soon You'll Get Better"
+            ],
+            "group_id": "Lover"
+        },
+        {
+            "body": "I miss who I used to be",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Would've, Could've, Should've"
+            ],
+            "group_id": "Midnights"
+        }
+    ],
+    "groups": [
+        {
+            "group_id": "Taylor Swift",
+            "group_name": "Taylor Swift",
+            "style": {
+                "font_name": "New York Bold",
+                "text_color": "#edffed",
+                "image_overlay": "#00000005",
+                "image_url": "https://13widgets.com/feeds/images/tswift/TaylorSwift.jpg"
+            }
+        },
+        {
+            "group_id": "Speak Now",
+            "group_name": "Speak Now",
+            "style": {
+                "font_name": "Georgia-Bold",
+                "text_color": "#2a004c",
+                "image_overlay": "#FFFFFF25",
+                "image_url": "https://13widgets.com/feeds/images/tswift/SpeakNow.jpg"
+            }
+        },
+        {
+            "group_id": "Fearless",
+            "group_name": "Fearless (Taylor's Version)",
+            "style": {
+                "font_name": "Thonburi-Bold",
+                "text_color": "#fff5dd",
+                "image_overlay": "#00000010",
+                "image_url": "https://13widgets.com/feeds/images/tswift/Fearless.jpg"
+            }
+        },
+        {
+            "group_id": "Red",
+            "group_name": "Red (Taylor's Version)",
+            "style": {
+                "font_name": "Bebas Neue",
+                "image_overlay": "#00000005",
+                "image_url": "https://13widgets.com/feeds/images/tswift/Red.jpg"
+            }
+        },
+        {
+            "group_id": "1989",
+            "group_name": "1989",
+            "style": {
+                "font_name": "New York Bold",
+                "text_color": "#3d1e08",
+                "image_url": "https://13widgets.com/feeds/images/tswift/1989.jpg"
+            }
+        },
+        {
+            "group_id": "reputation",
+            "group_name": "Reputation",
+            "style": {
+                "font_name": "San Francisco Bold",
+                "text_color": "#000000",
+                "image_overlay": "#FFFFFF25",
+                "image_url": "https://13widgets.com/feeds/images/tswift/reputation.jpg"
+            }
+        },
+        {
+            "group_id": "Lover",
+            "group_name": "Lover",
+            "style": {
+                "font_name": "Charter Bold",
+                "text_color": "#60075d",
+                "image_url": "https://13widgets.com/feeds/images/tswift/Lover.jpg"
+            }
+        },
+        {
+            "group_id": "folklore",
+            "group_name": "folklore",
+            "style": {
+                "font_name": "Georgia-Bold",
+                "image_overlay": "#00000025",
+                "image_url": "https://13widgets.com/feeds/images/tswift/folklore.jpg"
+            }
+        },
+        {
+            "group_id": "evermore",
+            "group_name": "evermore",
+            "style": {
+                "font_name": "Georgia-Bold",
+                "text_color": "#220000",
+                "image_overlay": "#FFFFFF30",
+                "image_url": "https://13widgets.com/feeds/images/tswift/evermore.jpg"
+            }
+        },
+        {
+            "group_id": "Midnights",
+            "group_name": "Midnights",
+            "style": {
+                "font_name": "Helvetica-Bold",
+                "text_color": "#000000",
+                "image_overlay": "#FFFFFF40",
+                "image_url": "https://13widgets.com/feeds/images/tswift/Midnights.jpg"
+            }
+        }
+    ]
+}

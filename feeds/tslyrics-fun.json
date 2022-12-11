@@ -1,0 +1,141 @@
+{
+    "$schema": "schema.json",
+    "feed_info": {
+        "name": "Talor Swift Lyrics (fun)",
+        "id": "13w-tslyrics-fun"
+    },
+    "quotes": [
+        {
+            "body": "*silence*\n...\n*pots and pans clanking loudly*",
+            "attributions": [
+                "Taylor Swift",
+                "evermore",
+                "closure"
+            ],
+            "group_id": "Evermore"
+        },
+        {
+            "body": "Got a lot of Starbucks lovers, they'll tell you I'm insane",
+            "attributions": [
+                "Taylor Swift",
+                "1989",
+                "Blank Space"
+            ],
+            "group_id": "1989"
+        },
+        {
+            "body": "I got an I <3 ? written on the back of my hand",
+            "attributions": [
+                "Taylor Swift",
+                "Beautiful Eyes EP",
+                "I Heart ?"
+            ],
+            "group_id": "Beautiful Eyes EP"
+        },
+        {
+            "body": "Wake up and smell the break-up\nRealize that we won't make-up",
+            "attributions": [
+                "Taylor Swift",
+                "Beautiful Eyes EP",
+                "I Heart ?"
+            ],
+            "group_id": "Beautiful Eyes EP"
+        },
+        {
+            "body": "Go and tell your friends that I'm obsessive and crazy\nThat's fine, I'll tell mine you're homophobic",
+            "attributions": [
+                "Taylor Swift",
+                "Taylor Swift",
+                "Picture to Burn"
+            ],
+            "group_id": "Taylor Swift"
+        },
+        {
+            "body": "Ratatatatata ta ta",
+            "attributions": [
+                "Taylor Swift",
+                "Reputation",
+                "I Did Something Bad"
+            ],
+            "group_id": "Reputation"
+        },
+        {
+            "body": "Dum pdum pdum alleyways\nCheap wine, make believe it's champagne",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Paris"
+            ],
+            "group_id": "Midnights"
+        },
+        {
+            "body": "I'll stare directly at the sun",
+            "attributions": [
+                "Taylor Swift",
+                "Midnights",
+                "Anti-Hero"
+            ],
+            "group_id": "Midnights"
+        }
+    ],
+    "groups": [
+        {
+            "group_id": "Taylor Swift",
+            "group_name": "Taylor Swift",
+            "style": {
+                "font_name": "New York Bold",
+                "text_color": "#edffed",
+                "image_overlay": "#00000005",
+                "image_url": "https://13widgets.com/feeds/images/tswift/TaylorSwift.jpg"
+            }
+        },
+        {
+            "group_id": "Beautiful Eyes EP",
+            "group_name": "Beautiful Eyes EP",
+            "style": {
+                "font_name": "SF Rounded Bold",
+                "image_overlay": "#00000020",
+                "image_url": "https://13widgets.com/feeds/images/tswift/BeautifulEyesEP.jpg"
+            }
+        },
+        {
+            "group_id": "1989",
+            "group_name": "1989",
+            "style": {
+                "font_name": "New York Bold",
+                "text_color": "#3d1e08",
+                "image_url": "https://13widgets.com/feeds/images/tswift/1989.jpg"
+            }
+        },
+        {
+            "group_id": "reputation",
+            "group_name": "Reputation",
+            "style": {
+                "font_name": "San Francisco Bold",
+                "text_color": "#000000",
+                "image_overlay": "#FFFFFF25",
+                "image_url": "https://13widgets.com/feeds/images/tswift/reputation.jpg"
+            }
+        },
+        {
+            "group_id": "evermore",
+            "group_name": "evermore",
+            "style": {
+                "font_name": "Georgia-Bold",
+                "text_color": "#220000",
+                "image_overlay": "#FFFFFF30",
+                "image_url": "https://13widgets.com/feeds/images/tswift/evermore.jpg"
+            }
+        },
+        {
+            "group_id": "Midnights",
+            "group_name": "Midnights",
+            "style": {
+                "font_name": "Helvetica-Bold",
+                "text_color": "#000000",
+                "image_overlay": "#FFFFFF40",
+                "image_url": "https://13widgets.com/feeds/images/tswift/Midnights.jpg"
+            }
+        }
+    ]
+}

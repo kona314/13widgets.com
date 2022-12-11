@@ -1,0 +1,243 @@
+{
+    "$schema": "schema.json",
+    "feed_info": {
+        "name": "Default Feed",
+        "description": "A variety of selected quotes for a general audience",
+        "id": "13w-default"
+    },
+    "quotes": [
+        {
+            "body": "Be yourself; everyone else is already taken",
+            "attributions": [
+                "Oscar Wilde"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe",
+            "attributions": [
+                "Albert Einstein"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "I skate to where the puck is going to be, not to where it has been",
+            "attributions": [
+                "Wayze Gretzky"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "Making an un-perfect decision is far, far better than not making a decision, which is the worst possible decision you could make",
+            "attributions": [
+                "Hank Green"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "The only way to do great work is to love what you do.",
+            "attributions": [
+                "Steve Jobs"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "Don't cry because it's over, smile because it happened",
+            "attributions": [
+                "Dr. Seuss"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "If you want to live a happy life, tie it to a goal, not to people or things",
+            "attributions": [
+                "Albert Einstein"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "Believe you can and you're halfway there",
+            "attributions": [
+                "Theodore Roosevelt"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel",
+            "attributions": [
+                "Maya Angelou"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart",
+            "attributions": [
+                "Helen Keller"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "The greatest glory in living lies not in never falling, but in rising every time we fall",
+            "attributions": [
+                "Nelson Mandela"
+            ],
+            "group_id": "Famous People"
+        },
+        {
+            "body": "We accept the love we think we deserve",
+            "attributions": [
+                "Stephen Chbosky",
+                "The Perks of Being a Wallflower"
+            ],
+            "group_id": "Literary"
+        },
+        {
+            "body": "Without music, life would be a mistake",
+            "attributions": [
+                "Friedrich Nietzsche",
+                "Twilight of the Idols"
+            ],
+            "group_id": "Literary"
+        },
+        {
+            "body": "As he read, I fell in love the way you fall asleep: slowly, and then all at once",
+            "attributions": [
+                "John Green",
+                "The Fault in Our Stars"
+            ],
+            "group_id": "Literary"
+        },
+        {
+            "body": "The fool doth think he is wise, but the wise man knows himself to be a fool",
+            "attributions": [
+                "William Shakespeare",
+                "As You Like It"
+            ],
+            "group_id": "Literary"
+        },
+        {
+            "body": "To be or not to be, that is the question",
+            "attributions": [
+                "William Shakespeare",
+                "Hamlet"
+            ],
+            "group_id": "Literary"
+        },
+        {
+            "body": "It was the best of times, it was the worst of times",
+            "attributions": [
+                "Charles Dickens",
+                "A Tale of Two Cities"
+            ],
+            "group_id": "Literary"
+        },
+        {
+            "body": "I cannot fix on the hour, or the spot, or the look or the words, which laid the foundation. It is too long ago. I was in the middle before I knew that I had begun",
+            "attributions": [
+                "Jane Austen",
+                "Pride and Prejudice"
+            ],
+            "group_id": "Literary"
+        },
+        {
+            "body": "In my beginning is my end",
+            "attributions": [
+                "T.S. Eliot",
+                "Four Quartets"
+            ],
+            "group_id": "Literary"
+        },
+        {
+            "body": "Here's looking at you, kid",
+            "attributions": [
+                "Casablanca"
+            ],
+            "group_id": "Media"
+        },
+        {
+            "body": "I'll make him an offer he can't refuse",
+            "attributions": [
+                "The Godfather"
+            ],
+            "group_id": "Media"
+        },
+        {
+            "body": "Go ahead, make my day",
+            "attributions": [
+                "Sudden Impact"
+            ],
+            "group_id": "Media"
+        },
+        {
+            "body": "I am the one who knocks",
+            "attributions": [
+                "Breaking Bad"
+            ],
+            "group_id": "Media"
+        },
+        {
+            "body": "I see dead people",
+            "attributions": [
+                "The Sixth Sense"
+            ],
+            "group_id": "Media"
+        },
+        {
+            "body": "I'm the king of the world!",
+            "attributions": [
+                "Titanic"
+            ],
+            "group_id": "Media"
+        },
+        {
+            "body": "You had me at 'hello'",
+            "attributions": [
+                "Jerry Maguire"
+            ],
+            "group_id": "Media"
+        },
+        {
+            "body": "May the Force be with you",
+            "attributions": [
+                "Star Wars"
+            ],
+            "group_id": "Media"
+        },
+        {
+            "body": "Elementary, my dear Watson",
+            "attributions": [
+                "Sherlock Holmes"
+            ],
+            "group_id": "Media"
+        },
+        {
+            "body": "Say 'hello' to my little friend!",
+            "attributions": [
+                "Scarface"
+            ],
+            "group_id": "Media"
+        }
+    ],
+    "groups": [
+        {
+            "group_id": "Famous People",
+            "group_name": "Famous People",
+            "style": {
+                "text_color": "#FFFFFF",
+                "image_url": "https://13widgets.com/feeds/images/general/clouds.jpg"
+            }
+        },
+        {
+            "group_id": "Literary",
+            "group_name": "Literary",
+            "style": {
+                "text_color": "#FFFFFF",
+                "image_url": "https://13widgets.com/feeds/images/general/books.jpg"
+            }
+        },
+        {
+            "group_id": "Media",
+            "group_name": "Movies, Music, and Media"
+        }
+    ]
+}

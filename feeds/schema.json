@@ -1,0 +1,128 @@
+{
+    "$schema": "http://json-schema.org/schema",
+    "title": "13Widgets Feed",
+    "description": "The format to produce a list of entries for a 13Widgets feed.",
+    "definitions": {
+        "style": {
+            "type": "object",
+            "properties": {
+                "image_url": {
+                    "type": "string",
+                    "description": "A URL of an image for this object. Widgets can display as squares or ~2:1 rectangles. For best results, consider using square assets, and ensure the middle half (vertically) contains content appropriate to display on its own, remembering that images are blurred by default"
+                },
+                "image_blur": {
+                    "type": "boolean",
+                    "description": "Images are blurred by default. Set to `false` to override this"
+                },
+                "image_overlay": {
+                    "type": "string",
+                    "description": "Overlay the image with a color. This should be very low opacity, otherwise it just obscures the images. Most useful for making text more legible",
+                    "pattern": "^#[A-Fa-f0-9]{8}$"
+                },
+                "text_color": {
+                    "type": "string",
+                    "description": "Color of text to use for this object",
+                    "pattern": "^#([A-Fa-f0-9]{6}|A-Fa-f0-9]{8})$"
+                },
+                "background_color": {
+                    "type": "string",
+                    "description": "Background color to use for this object (superseded by `image_url`)",
+                    "pattern": "^#([A-Fa-f0-9]{6}|A-Fa-f0-9]{8})$"
+                },
+                "font_name": {
+                    "type": "string",
+                    "description": "Name of the font to use for text for this object. Must be available in iOS 16"
+                }
+            }
+        }
+    },
+    "type": "object",
+    "properties": {
+        "feed_info": {
+            "description": "Describes the feed itself",
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "A public-facing name for the feed"
+                },
+                "description": {
+                    "type": "string",
+                    "description": "Optional description of the feed contents"
+                },
+                "id": {
+                    "type": "string",
+                    "description": "A unique ID for the feed. Multiple feeds with the same ID will result in undefined behavior: It's recommended to prefix with your name/domain/etc.. The prefix `13w-` is restricted to those that come from 13Widgets.",
+                    "pattern": "^[a-zA-Z0-9_-]+$"
+                },
+                "style": {
+                    "$ref": "#/definitions/style",
+                    "description": "A style to use globally. Lowest priority, i.e. should be overriden by group or quote specific styles. Definitions here may be used to describe this feed as a whole. This is optional, but strongly recommended"
+                }
+            },
+            "required": ["name", "id"]
+        },
+        "quotes": {
+            "description": "The list of quotes to display",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "body": {
+                        "type": "string",
+                        "description": "The main quote to display"
+                    },
+                    "attributions": {
+                        "type": "array",
+                        "description": "List of attributions for the quote, from least specific to most",
+                        "examples": [
+                            ["Albert Einstein"],
+                            ["Taylor Swift", "Midnights", "Anti-Hero"],
+                            ["Douglas Adams", "The Hitchhiker's Guide to the Galaxy"]
+                        ],
+                        "items": {
+                            "type": "string"
+                        },
+                        "minItems": 1,
+                        "maxItems": 3
+                    },
+                    "style": {
+                        "$ref": "#/definitions/style",
+                        "description": "Styling to apply to this specific quote. Highest priority selector"
+                    },
+                    "group_id": {
+                        "type": "string",
+                        "description": "The ID of the group this quote belongs to",
+                        "pattern": "^[a-zA-Z0-9_-\\s]+$"
+                    }
+                },
+                "required": ["body"]
+            },
+            "minItems": 1
+        },
+        "groups": {
+            "description": "Groups used by the quotes, each key should be a `group_id`. These will not be shown to the user if not used by a quote",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "description": "Describes a group",
+                "properties": {
+                    "group_id": {
+                        "type": "string",
+                        "description": "The ID for the group, referenced in `quotes`"
+                    },
+                    "group_name": {
+                        "type": "string",
+                        "description": "The public-facing name of the group"
+                    },
+                    "style": {
+                        "$ref": "#/definitions/style",
+                        "description": "Styling to apply to any quote in this group. Overrides the general feed style, but may be overriden by a quote's styling. Definitions here may also be used to style presentation of the group itself"
+                    }
+                },
+                "required": ["group_id", "group_name"]
+            }
+        }
+    },
+    "required": ["feed_info", "quotes", "groups"]
+}
