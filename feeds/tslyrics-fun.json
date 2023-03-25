@@ -3,7 +3,11 @@
     "feed_info": {
         "name": "Talor Swift Lyrics (fun)",
         "description": "Misheard lyrics, non-words lyrics, and other fun stuff",
-        "id": "13w-tslyrics-fun"
+        "id": "13w-tslyrics-fun",
+        "style": {
+            "background_color": "#5b336d",
+            "text_color": "#ffffff"
+        }
     },
     "quotes": [
         {
@@ -77,6 +81,12 @@
                 "Anti-Hero"
             ],
             "group_id": "Midnights"
+        },
+        {
+            "body": "I'm not asleep, my mind is alive",
+            "attributions": [
+                "Taylor Swift"
+            ]
         }
     ],
     "groups": [
