@@ -2,6 +2,7 @@
     "$schema": "schema.json",
     "feed_info": {
         "name": "Talor Swift Lyrics (fun)",
+        "description": "Misheard lyrics, non-words lyrics, and other fun stuff",
         "id": "13w-tslyrics-fun"
     },
     "quotes": [
@@ -12,7 +13,7 @@
                 "evermore",
                 "closure"
             ],
-            "group_id": "Evermore"
+            "group_id": "evermore"
         },
         {
             "body": "Got a lot of Starbucks lovers, they'll tell you I'm insane",
@@ -108,7 +109,7 @@
             }
         },
         {
-            "group_id": "reputation",
+            "group_id": "Reputation",
             "group_name": "Reputation",
             "style": {
                 "font_name": "San Francisco Bold",
