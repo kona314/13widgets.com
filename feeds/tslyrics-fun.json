@@ -1,7 +1,7 @@
 {
     "$schema": "schema.json",
     "feed_info": {
-        "name": "Talor Swift Lyrics (fun)",
+        "name": "Taylor Swift Lyrics (fun)",
         "description": "Misheard lyrics, non-words lyrics, and other fun stuff",
         "id": "13w-tslyrics-fun",
         "style": {
