@@ -19,6 +19,9 @@
             <h1 class="main">13Widgets Feed Directory</h1>
             <p class="main">
                 Want to create your own feed? The spec is documented as a <a href="https://json-schema.org">JSON schema</a> in <a href="schema.json">this file</a>.
+                <br/>
+                <br/>
+                <i><a href="/">Return to the project homepage</a></i>
             </p>
             <p class="main">
                 <table>
@@ -29,22 +32,8 @@
                             <th>Feed URL</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <tr>
-                            <td>Default</td>
-                            <td>A variety of basic quotes for a general audience</td>
-                            <td><a href="default.json">https://13widgets.com/feeds/default.json</a></td>
-                        </tr>
-                        <tr>
-                            <td>Taylor Swift Lyrics</td>
-                            <td>Quotes from Taylor Swift songs through all the eras</td>
-                            <td><a href="tslyrics.json">https://13widgets.com/feeds/tslyrics.json</a></td>
-                        </tr>
-                        <tr>
-                            <td>Taylor Swift Lyrics (fun)</td>
-                            <td>Misheard lyrics, non-words lyrics, and other fun stuff</td>
-                            <td><a href="tslyrics-fun.json">https://13widgets.com/feeds/tslyrics-fun.json</a></td>
-                        </tr>
+                    <tbody id="feeds-tbody">
+                        
                     </tbody>
                 </table>
             </p>
@@ -53,4 +42,22 @@
             </p>
         </div>
     </body>
+    <script>
+        fetch("/feeds/AllDirectory.json")
+        .then(data => data.json())
+        .then(data => {
+            const tbody = document.getElementById("feeds-tbody")
+            data.feeds.forEach(feed => {
+                const tr = document.createElement("tr")
+                const [name, desc, u] = [document.createElement("td"), document.createElement("td"), document.createElement("td")]
+                name.innerText = feed.name
+                desc.innerText = feed.description 
+                u.innerText = feed.url 
+                tr.appendChild(name)
+                tr.appendChild(desc)
+                tr.appendChild(u)
+                tbody.appendChild(tr)
+            })
+        })
+    </script>
 </html>

@@ -1,0 +1,143 @@
+{
+    "$schema": "schema.json",
+    "feed_info": {
+        "name": "Love Quotes",
+        "description": "Famous quotes relating to love",
+        "id": "13w-love-quotes"
+    },
+    "quotes": [
+        {
+            "body": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage",
+            "attributions": [
+                "Lao Tzu"
+            ]
+        },
+        {
+            "body": "Love is not only something you feel, it is something you do",
+            "attributions": [
+                "David Wilkerson"
+            ]
+        },
+        {
+            "body": "Love is like the wind, you can't see it but you can feel it",
+            "attributions": [
+                "Nicholas Sparks",
+                "A Walk to Remember"
+            ]
+        },
+        {
+            "body": "Love is composed of a single soul inhabiting two bodies",
+            "attributions": [
+                "Aristotle"
+            ]
+        },
+        {
+            "body": "Love is an untamed force. When we try to control it, it destroys us. When we try to imprison it, it enslaves us. When we try to understand it, it leaves us feeling lost and confused",
+            "attributions": [
+                "Paulo Coelho",
+                "The Alchemist"
+            ]
+        },
+        {
+            "body": "Love is the answer to everything. It's the only reason to do anything. If you don't write stories you love, you'll never make it. If you don't write stories that other people love, you'll never make it",
+            "attributions": [
+                "Ray Bradbury"
+            ]
+        },
+        {
+            "body": "The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds. And that's what you've given me. That's what I'd hoped to give you forever",
+            "attributions": [
+                "Nicholas Sparks",
+                "The Notebook"
+            ]
+        },
+        {
+            "body": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves",
+            "attributions": [
+                "Victor Hugo",
+                "Les Misérables"
+            ]
+        },
+        {
+            "body": "We loved with a love that was more than love",
+            "attributions": [
+                "Edgar Allan Poe",
+                "Annabel Lee"
+            ]
+        },
+        {
+            "body": "Love is a force more formidable than any other. It is invisible—it cannot be seen or measured, yet it is powerful enough to transform you in a moment, and offer you more joy than any material possession could",
+            "attributions": [
+                "Barbara De Angelis"
+            ]
+        },
+        {
+            "body": "The art of love is largely the art of persistence",
+            "attributions": [
+                "Albert Ellis"
+            ]
+        },
+        {
+            "body": "Love is a promise; love is a souvenir, once given never forgotten, never let it disappear",
+            "attributions": [
+                "John Lennon"
+            ]
+        },
+        {
+            "body": "Love is not about possession. Love is about appreciation",
+            "attributions": [
+                "Osho"
+            ]
+        },
+        {
+            "body": "Love is a game that two can play and both win",
+            "attributions": [
+                "Eva Gabor"
+            ]
+        },
+        {
+            "body": "Love is the voice under all silences, the hope which has no opposite in fear; the strength so strong mere force is feebleness: the truth more first than sun, more last than star",
+            "attributions": [
+                "E.E. Cummings"
+            ]
+        },
+        {
+            "body": "Love is not love until love's vulnerable",
+            "attributions": [
+                "Theodore Roethke"
+            ]
+        },
+        {
+            "body": "Romance is the glamour which turns the dust of everyday life into a golden haze",
+            "attributions": [
+                "Elinor Glyn"
+            ]
+        },
+        {
+            "body": "I have waited for this opportunity for more than half a century, to repeat to you once again my vow of eternal fidelity and everlasting love",
+            "attributions": [
+                "Gabriel Garcia Marquez",
+                "Love in the Time of Cholera"
+            ]
+        },
+        {
+            "body": "Romance is the poetry of literature",
+            "attributions": [
+                "Evelyn Waugh"
+            ]
+        },
+        {
+            "body": "What greater thing is there for two human souls than to feel that they are joined to strengthen each other, to be at one with each other in silent unspeakable memories",
+            "attributions": [
+                "George Eliot"
+            ]
+        },
+        {
+            "body": "I'm a hopeless romantic. It's disgusting. It really is. I've seen 'While You Were Sleeping', like, twenty times, and I still believe in the whole Prince Charming thing",
+            "attributions": [
+                "Jennifer Love Hewitt"
+            ]
+        }
+    ],
+    "groups": []
+}
